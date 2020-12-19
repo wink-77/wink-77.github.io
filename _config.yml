@@ -1,8 +1,8 @@
-title: "Jekyll-Theme-MDUI"
-description: "A Jekyll theme based on MDUI"
+title: "Wink的小站"
+description: "文字的荒漠"
 url: 
 baseurl: ""
-author: "KeJun"
+author: "Wink"
 paginate: 5
 paginate_path: "/blog/page:num/"
 
