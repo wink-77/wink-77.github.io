@@ -23,15 +23,14 @@ img: https://ooo.0o0.ooo/2017/05/30/592d41ed710a5.jpg
 
 ## 使用
 
-1. 打开 `https://yourblogurl/pages/editor.html`。
+1. 打开 编辑器。
 2. 按照提示填写对应信息。
-4. 点击 `CREATE FILE` 按钮。
-5. 点击 `Download` 按钮。
-6. 将下载的文件移动到 `_posts` 文件夹。
-7. `git push` 。
+3. 点击 `Download` 按钮。
+4. 将下载的文件移动到 `_posts` 文件夹。
+5. `git push` 。
 
 ## 预览
 
-[demo](https://blog.kejun.me/pages/editor.html)
+[demo](https://wink77.net/editor/)
 
 ![](https://ooo.0o0.ooo/2017/05/30/592d4280948fb.jpg)
