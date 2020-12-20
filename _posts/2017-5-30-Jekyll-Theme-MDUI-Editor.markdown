@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Jekyll Theme MDUI Editor
+title: 编辑器使用方式
 date: 2017-5-30 0:0:0 +0800
 categories: Living
-tags: mdui jekyll theme editor
+tags: editor
 img: https://ooo.0o0.ooo/2017/05/30/592d41ed710a5.jpg
 ---
 静态博客在线攥写文章不是梦。
